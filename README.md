@@ -4,7 +4,7 @@ This project involves analyzing pizza sales data using Microsoft Power BI. The d
 
 ## Data Source
 
-The data for this project was obtained from a SQL Server database containing transactional data related to pizza sales. The relevant tables were imported into Power BI for analysis.
+The data for this project was obtained from a SQL Server database containing transactional data related to pizza sales. The relevant tables were imported into Power BI for analysis. [pizza-sales-data](https://github.com/tushar11720/pizza-sales-analysis)
 
 ## Data Transformation
 
