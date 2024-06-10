@@ -59,4 +59,4 @@ The "Best and Worst Sellers" report page highlights the top-performing and under
 
 ## Usage
 
-To explore the analysis and visualizations, open the `Pizza.pbix` file in Power BI Desktop. The report is divided into multiple pages, each focusing on a specific aspect of the analysis.
+To explore the analysis and visualizations, open the `pizza.pbix` file in Power BI Desktop. The report is divided into multiple pages, each focusing on a specific aspect of the analysis.
